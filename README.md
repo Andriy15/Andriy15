@@ -15,7 +15,7 @@
 
 <div align="center">
   <h2>🚀 Let's Build Awesome Things Together! 🌟</h2>
-  <p>Passionate about crafting pixel-perfect UIs and immersive user experiences! 🎨</p>
+  <p>Passionate about crafting perfect UIs and immersive user experiences! 🎨</p>
   <p>Let's bring your ideas to life with clean code and cutting-edge technologies! 🚀</p>
 </div>
 
