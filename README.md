@@ -4,11 +4,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="Followers" />
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img src="https://img.shields.io/github/followers/Andriy15?label=Follow&style=social" alt="Followers" />
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%87%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D0%B9-2a686723b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:andriychikulay@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-red" alt="Email" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ## Introduction
 
-Hello, amazing humans of the internet! 👋 I'm [Your Name], a passionate front-end developer who loves crafting delightful user experiences. Welcome to my portfolio, where I showcase my creativity and technical skills. Here, you'll find some exciting projects, code samples, skills, and ways to connect with me.
+Hello, amazing humans of the internet! 👋 I'm Andrii, a passionate front-end developer who loves crafting delightful user experiences. Welcome to my portfolio, where I showcase my creativity and technical skills. Here, you'll find some exciting projects, code samples, skills, and ways to connect with me.
 
 ## Projects
 
@@ -65,5 +65,5 @@ If you find my projects interesting or want to explore potential collaborations,
 
 Let's build amazing web experiences together!
 
-[![GitHub Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Andriy15)
+[![GitHub Follow](https://img.shields.io/github/followers/Andriy15?label=Follow&style=social)](https://github.com/Andriy15)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%87%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D0%B9-2a686723b//)"
