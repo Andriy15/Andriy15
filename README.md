@@ -43,13 +43,21 @@ It's a simple and convenient app which allows user to find any repositories on g
 
 I'm proficient in the following front-end technologies and tools:
 
-- HTML5, CSS3, Sass, JavaScript (ES6+), TypeScript
-- Methodology SMACSS
-- React.js, Redux-toolkit
-- Bootstrap, Tailwind CSS
-- Webpack, Docker
-- Git and GitHub
-- Firebase
+- ![HTML](https://img.shields.io/badge/-HTML-282828?logo=html5&logoColor=e34f26)
+- ![CSS](https://img.shields.io/badge/-CSS-282828?logo=css3&logoColor=1572b6)
+- ![Sass](https://img.shields.io/badge/-Sass-282828?logo=sass&logoColor=cc6699)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-282828?logo=javascript&logoColor=f7df1e)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-282828?logo=typescript&logoColor=3178c6)
+- ![SMACSS](https://img.shields.io/badge/-SMACSS-282828?logo=smacss&logoColor=ffae1a)
+- ![React](https://img.shields.io/badge/-React-282828?logo=react&logoColor=61dafb)
+- ![Redux](https://img.shields.io/badge/-Redux-282828?logo=redux&logoColor=764abc)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282828?logo=bootstrap&logoColor=563d7c)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-282828?logo=tailwind-css&logoColor=38b2ac)
+- ![Webpack](https://img.shields.io/badge/-Webpack-282828?logo=webpack&logoColor=8dd6f9)
+- ![Docker](https://img.shields.io/badge/-Docker-282828?logo=docker&logoColor=2496ed)
+- ![Firebase](https://img.shields.io/badge/-Firebase-282828?logo=firebase&logoColor=ffcb2b)
+- ![Git](https://img.shields.io/badge/-Git-282828?logo=git&logoColor=f05032)
+- ![npm](https://img.shields.io/badge/-npm-282828?logo=npm&logoColor=cc0100)
 
 ## Contact
 
