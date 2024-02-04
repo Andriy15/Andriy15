@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status" />
   <img src="https://img.shields.io/github/followers/Andriy15?label=Follow&style=social" alt="Followers" />
-  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%87%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D0%B9-2a686723b/" target="_blank">
+  <a href="https://www.linkedin.com/in/andrii-chykulai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
   <a href="mailto:andriychikulay@gmail.com">
@@ -64,7 +64,7 @@ I'm proficient in the following front-end technologies and tools:
 I'm open to collaboration and new opportunities. If you have any inquiries or would like to connect, feel free to reach out to me:
 
 - Email: [andriychikulay@gmail.com](mailto:andriychikulay@gmail.com)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%87%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D0%B9-2a686723b/)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/andrii-chykulai/)
 
 
 ## Let's Connect
@@ -74,4 +74,4 @@ If you find my projects interesting or want to explore potential collaborations,
 Let's build amazing web experiences together!
 
 [![GitHub Follow](https://img.shields.io/github/followers/Andriy15?label=Follow&style=social)](https://github.com/Andriy15)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%87%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D0%B9-2a686723b//)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrii-chykulai/)
