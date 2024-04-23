@@ -50,6 +50,7 @@ I'm proficient in the following front-end technologies and tools:
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-282828?logo=typescript&logoColor=3178c6)
 - ![SMACSS](https://img.shields.io/badge/-SMACSS-282828?logo=smacss&logoColor=ffae1a)
 - ![React](https://img.shields.io/badge/-React-282828?logo=react&logoColor=61dafb)
+- ![Next](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 - ![Redux](https://img.shields.io/badge/-Redux-282828?logo=redux&logoColor=764abc)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282828?logo=bootstrap&logoColor=563d7c)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-282828?logo=tailwind-css&logoColor=38b2ac)
